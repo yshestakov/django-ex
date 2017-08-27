@@ -46,3 +46,16 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
+.container-fluid {
+    background-color: #ff9400;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    font-size: 18pt;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
