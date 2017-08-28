@@ -45,6 +45,7 @@ INSTALLED_APPS = (
     'debug_toolbar',
     'welcome',
     'blog',
+    'gifts',
 )
 
 MIDDLEWARE_CLASSES = (
